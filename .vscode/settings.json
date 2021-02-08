@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a428af4e-908c-4fd3-a149-170561425bc3/resourceGroups/Storiesforus/providers/Microsoft.Web/sites/storiesforus",
+    "appService.deploySubpath": "."
+}
